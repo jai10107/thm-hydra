@@ -1,2 +1,2 @@
-# thm-hydra
+# Thm-hydra
 walktrough
